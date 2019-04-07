@@ -10,7 +10,7 @@
     "download"
   ],
   "author": "hicooper",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "single-line-log": "^1.1.2"
   }
