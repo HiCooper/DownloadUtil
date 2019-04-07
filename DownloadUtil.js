@@ -20,7 +20,7 @@ function download(targetUrl, savePath) {
         });
         res.on('end', function () {
             file.end();
-            console.log(`${file_name} downloaded to ${download_path}\n`);
+            console.log(`${file_name} downloaded to ${savePath}\n`);
         })
     });
 }
