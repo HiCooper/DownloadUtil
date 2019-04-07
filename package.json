@@ -1,0 +1,17 @@
+{
+  "name": "download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download"
+  ],
+  "author": "hicooper",
+  "license": "ISC",
+  "dependencies": {
+    "single-line-log": "^1.1.2"
+  }
+}
